@@ -1,9 +1,5 @@
 ## Welcome to my portfolio 👋
 
-<!--
-
-
-Unix skills:
 
 🔭Users and Groups
 🔭 Storage management
@@ -25,4 +21,4 @@ Unix skills:
    - Nagios
 🔭 Active Directory Authentication in Unix
 
--->
+
