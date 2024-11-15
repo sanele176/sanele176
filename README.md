@@ -14,11 +14,14 @@
 - NFS Server
 - DNS Server
 - Scripting & Automation
+   - Bash
+   - Ansible
 - Monitoring
    - Grafana
    - Prometheus
    - Solarwinds
    - Nagios
 - Active Directory Authentication in Unix
+   - Powerbroker and realmd
 
 
