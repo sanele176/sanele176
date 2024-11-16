@@ -21,6 +21,7 @@
    - Prometheus
    - Solarwinds
    - Nagios
+   - Zabbix
 - Active Directory Authentication in Unix
    - Powerbroker and realmd
  
