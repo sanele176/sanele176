@@ -35,13 +35,24 @@
 
 ### Security & Hardening
 - Implementation of security baseline configurations
-- SELinux/AppArmor configuration and policy management
-- System hardening following CIS benchmarks
-- Regular security audits and compliance checking
 - Firewall configuration (iptables/firewalld)
 - Implementation of PAM modules for enhanced authentication
 - SSL/TLS certificate management
 - Security patch management and vulnerability assessment
+
+### Access Control & Authentication
+
+####PowerBroker Identity Services (PBIS) Implementation
+
+Domain join and configuration
+Group policy integration
+User authentication and authorization
+Access control list management
+Cached credentials management
+Local group policy configuration
+Home directory auto-creation
+Shell and login restrictions
+UID/GID mapping and management
 
 ### Network Services
 
