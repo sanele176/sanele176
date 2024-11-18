@@ -3,12 +3,19 @@
 #### Unix skills
 - Users and Groups
 - Storage management
+   - Logical Volumes
+   - shrinking / growing partitions
+   - xfs, ext4
+   - Mapping and creating new partitions 
 - Package Management (local and remote repos)
 - Security and server hardening
 - Networking
 - File server (vsftp)
 - Mail relay Configuration
-- Web server (httpd,tomcat,nginx)
+- Web server
+   - httpd
+   - tomcat
+   - nginx
 - Files and Directory permissions
 - Time synchronization
 - NFS Server
