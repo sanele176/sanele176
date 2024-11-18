@@ -42,17 +42,16 @@
 
 ### Access Control & Authentication
 
-####PowerBroker Identity Services (PBIS) Implementation
+#### PowerBroker Identity Services (PBIS) Implementation
 
-Domain join and configuration
-Group policy integration
-User authentication and authorization
-Access control list management
-Cached credentials management
-Local group policy configuration
-Home directory auto-creation
-Shell and login restrictions
-UID/GID mapping and management
+- Domain join and configuration
+- Group policy integration
+- User authentication and authorization
+- Access control list management
+- Local group policy configuration
+- Home directory auto-creation
+- Shell and login restrictions
+- UID/GID mapping and management
 
 ### Network Services
 
