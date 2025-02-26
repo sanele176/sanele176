@@ -1,4 +1,4 @@
-![Alternative Text](./Linux-Administration/mindmap.png "Optional Title")
+![Alternative Text](/Linux-Administration/mindmap.png "Optional Title")
 
 
 # Technical Skills Portfolio
