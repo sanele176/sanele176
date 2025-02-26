@@ -1,3 +1,6 @@
+![Alternative Text](./Linux-Administration/mindmap.png "Optional Title")
+
+
 # Technical Skills Portfolio
 
 ## Unix System Administration
