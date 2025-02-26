@@ -1,4 +1,4 @@
-![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/mindmap.png) "Optional Title")
+![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/mindmap.png)
 
 
 # Technical Skills Portfolio
