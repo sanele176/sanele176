@@ -118,14 +118,22 @@
 
 #### Monitoring Solutions
 
-![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Monitoring/Sample_automated_mail_daily_health_report.png)
+- Bash script and SMTP Relay
+   - Daily server health reports
+   - Relayed to mail
+   - scheduled via cron
 
+![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Monitoring/Sample_automated_mail_daily_health_report.png)
 
 - Grafana
   - Dashboard creation and customization
   - Data source integration
   - Alert configuration
   - Performance visualization
+
+![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Monitoring/prometheus_02.PNG)
+
+
 - Prometheus
   - Metric collection and storage
   - Query optimization
