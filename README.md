@@ -117,6 +117,10 @@
   - Configuration management
 
 #### Monitoring Solutions
+
+![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Monitoring/Sample_automated_mail_daily_health_report.png)
+
+
 - Grafana
   - Dashboard creation and customization
   - Data source integration
