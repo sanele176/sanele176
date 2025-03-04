@@ -130,6 +130,8 @@
   - Data source integration
   - Alert configuration
   - Performance visualization
+ 
+    (NOTE: Image from a decommissioned cloud lab environment)
 
 ![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Monitoring/prometheus_02.PNG)
 
