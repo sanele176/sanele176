@@ -104,6 +104,7 @@
 - Cross-platform identity management
 
 ### Automation & Monitoring
+[More Details on](https://github.com/sanele176/Linux-Administration/tree/main/Monitoring)
 
 #### Scripting & Automation
 - Bash scripting for system administration tasks
