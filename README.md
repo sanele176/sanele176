@@ -158,6 +158,11 @@
   - Template creation
   - Trigger configuration
   - Distributed monitoring
+ 
+  ![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Networkdevicemonitoring.png)
+
+
+  ![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/Switchmonitoring.png)
 
 ## Microsoft 365 & Azure Administration
 
