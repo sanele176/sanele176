@@ -1,7 +1,29 @@
 ![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/mindmap.png)
 
 
-# Technical Skills Portfolio
+# IT Technical Specialist | Linux and Windows Systems | Infrastructure Monitoring | Automation** Portfolio
+
+## Certifications
+
+- MS-102: Microsoft 365 Certified: Administrator Expert
+- MD-102: Microsoft 365 Certified: Endpoint Administrator Associate
+- AZ-800: Administering Windows Server Hybrid Core Infrastructure
+- MS-500: Microsoft 365 Certified: Security Administrator Associate
+- SC-300: Identity and Access Administrator Associate
+- SC-200: Security Operations Analyst Associate
+- SC-900: Security, Compliance, and Identity Fundamentals
+- LFS207: Linux System Administration Essentials (Linux Foundation)
+
+## Repositories
+
+| Repository | What it covers |
+|---|---|
+| [Linux-Administration](https://github.com/sanele176/Linux-Administration) | User and access control, LVM storage, package management, security hardening, Apache, Tomcat, NGINX, NFS, VSFTPD, chrony, and monitoring scripts |
+| [Ansible](https://github.com/sanele176/Ansible) | Playbooks, roles, and inventory for automating infrastructure configuration |
+| [Wazuh-SIEM](https://github.com/sanele176/Wazuh-SIEM) | Security monitoring and event analysis with Wazuh |
+| [Exchange-Admin](https://github.com/sanele176/Exchange-Admin) | Exchange Online administration and PowerShell scripts |
+| [portfolio](https://github.com/sanele176/portfolio) | Portfolio website source |
+
 
 ## Unix System Administration
 [Check out My Unix Repo](https://github.com/sanele176/Linux-Administration)
