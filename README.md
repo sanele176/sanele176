@@ -1,4 +1,4 @@
-![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/mindmap.png)
+![Alternative Text](https://github.com/sanele176/Linux-Administration/blob/main/portfolio.jpg)
 
 
 # IT Technical Specialist | Linux and Windows Systems | Infrastructure Monitoring | Automation** Portfolio
