@@ -23,7 +23,40 @@
 | [Wazuh-SIEM](https://github.com/sanele176/Wazuh-SIEM) | Security monitoring and event analysis with Wazuh |
 | [Exchange-Admin](https://github.com/sanele176/Exchange-Admin) | Exchange Online administration and PowerShell scripts |
 | [portfolio](https://github.com/sanele176/portfolio) | Portfolio website source |
+| [Microsoft-Intune-And-other-EUS-Tasks](https://github.com/sanele176/Microsoft-Intune-And-other-EUS-Tasks) | Intune and Autopilot deployment, BitLocker, Office and Visio packaging, printers, drivers, and end-user troubleshooting notes |
+| [Linux-Administration/Monitoring](https://github.com/sanele176/Linux-Administration/tree/main/Monitoring) | Daily health-report scripts, Grafana, Prometheus, SolarWinds, Nagios, and Zabbix examples |
 
+# Microsoft Intune and End-User Support Tasks
+
+Practical notes and scripts for managing Windows endpoints with Microsoft Intune and related end-user support tasks.
+
+## Contents
+
+| Folder or file | What it covers |
+|---|---|
+| Auto Pilot | Windows Autopilot device registration and onboarding |
+| Bitlocker | Drive encryption policy and recovery key handling |
+| Deploy Office Apps | Deploying Microsoft 365 apps through Intune |
+| Deploy Visio on Intune | Packaging and deploying Visio |
+| Device Configuration/Windows | Windows device configuration profiles |
+| Drivers | Driver deployment and troubleshooting |
+| LocalAdminRights | Managing local administrator rights on endpoints |
+| Printers | Printer deployment and configuration |
+| XML Policy examples | Example policy files |
+| Bulk uninstall apps via PowerShell | Removing applications across multiple devices |
+| Install Wifi driver | Installing a wireless driver on a managed device |
+| Scan windows | Windows scanning and related troubleshooting |
+
+## Troubleshooting notes
+
+- Files not deleting on SharePoint
+- Intune image not updating
+- Outlook issues
+- Removing a language pack from Windows
+
+## Notes
+
+These are lab and procedure notes. They contain no client or employer data.
 
 ## Unix System Administration
 [Check out My Unix Repo](https://github.com/sanele176/Linux-Administration)
@@ -139,6 +172,16 @@
   - Role creation and management
   - Inventory management
   - Configuration management
+ 
+## Contents
+
+- **Daily health report.** A Bash script that collects CPU, memory, disk, and network metrics, sends the report by SMTP relay, and runs on a schedule through cron.
+- **Grafana.** Dashboard creation, data source integration, and alert configuration. Screenshots come from a decommissioned cloud lab.
+- **Prometheus.** Metric collection, query examples, Alertmanager configuration, and service discovery.
+- **SolarWinds.** Network and server monitoring, capacity planning, and custom metrics.
+- **Nagios.** Service checks, performance tracking, and alert configuration.
+- **Zabbix.** Templates, triggers, and distributed monitoring.
+- **Switch monitoring.** Example of monitoring a network switch.
 
 #### Monitoring Solutions
 
